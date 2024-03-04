@@ -1,0 +1,2 @@
+Đỉnh 5 là đỉnh bồn chứa
+Số đỉnh là bồn chứa : 1

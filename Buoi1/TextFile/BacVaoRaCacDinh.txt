@@ -1,0 +1,6 @@
+Đỉnh 0: Bậc ra = 2, Bậc vào = 0
+Đỉnh 1: Bậc ra = 2, Bậc vào = 3
+Đỉnh 2: Bậc ra = 2, Bậc vào = 1
+Đỉnh 3: Bậc ra = 2, Bậc vào = 1
+Đỉnh 4: Bậc ra = 2, Bậc vào = 3
+Đỉnh 5: Bậc ra = 0, Bậc vào = 2
